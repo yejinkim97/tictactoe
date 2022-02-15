@@ -1,8 +1,9 @@
 import React from 'react';
 
-const Square = ({ value }) => {
+//use Event onClick #2
+const Square = ({ value, onClick }) => {
   return (
-    <button type="button" className="square">
+    <button type="button" className="square" onClick={onClick}>
       {value}
     </button>
   );

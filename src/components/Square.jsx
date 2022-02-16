@@ -1,6 +1,6 @@
 import React from 'react';
 
-//use Event onClick #2
+//use Event-javascript onClick #2
 const Square = ({ value, onClick }) => {
   return (
     <button type="button" className="square" onClick={onClick}>

@@ -1,10 +1,10 @@
 # Tic Tac Toe Game
 
 Code in React
+
 Styled with Sass
 
-Start Feb 14, 2022
-End Feb 16, 2022
+Feb 14, 2022 ~ Feb 16, 2022
 
 ## Resources
 

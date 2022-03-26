@@ -6,7 +6,6 @@ Code in React
 
 Styled with Sass
 
-Feb 14, 2022 ~ Feb 16, 2022
 
 ## Resources
 
